@@ -1,0 +1,4 @@
+baseURL = "http://michaeledoror.com"
+languageCode = "en-us"
+title = "Michael Edoror"
+theme = "charaka-hugo-theme"
